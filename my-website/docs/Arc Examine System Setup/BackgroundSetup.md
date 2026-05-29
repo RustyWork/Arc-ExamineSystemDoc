@@ -17,7 +17,7 @@ If you go under the **Prefabs** folder, you will find a folder named **Backgroun
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/99.png" alt="Background Prefabs" />
+  <img src="/Arc-ExamineSystemDoc/img/99.png" alt="Background Prefabs" />
 </div>
 
 <br />
@@ -27,7 +27,7 @@ First prefab is for <span style={{color: '#ff8011'}}>**Blur Effect**</span> back
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/100.png" alt="Blur and Solid Background" />
+  <img src="/Arc-ExamineSystemDoc/img/100.png" alt="Blur and Solid Background" />
 </div>
 
 <br />
@@ -44,7 +44,7 @@ First add the **BlurCamera** under **ExamineCameraOverlay** as child.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video28.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video28.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -62,7 +62,7 @@ Now if you go inside the **BlurCamera** object, you will find a script named <sp
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/7.png" alt="Blur Manager" />
+  <img src="/Arc-ExamineSystemDoc/img/7.png" alt="Blur Manager" />
 </div>
 
 <br />
@@ -76,7 +76,7 @@ You will find <span style={{color: '#ff8011'}}>**BlurMaterial**</span> under the
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/8.png" alt="Blur Material" />
+  <img src="/Arc-ExamineSystemDoc/img/8.png" alt="Blur Material" />
 </div>
 
 <p style={{color: '#888888', marginTop: '-1rem', textAlign: 'center'}}>
@@ -90,7 +90,7 @@ Now drag <span style={{color: '#ff8011'}}>**BlurMaterial**</span> into the **Blu
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/7.png" alt="Blur Material Field" />
+  <img src="/Arc-ExamineSystemDoc/img/7.png" alt="Blur Material Field" />
 </div>
 
 <br />
@@ -102,7 +102,7 @@ In that **BlurCanvas**, there is a field named **Render Camera**, and ensure **E
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video29.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video29.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -117,7 +117,7 @@ In that **BlurCanvas**, there is a field named **Render Camera**, and ensure **E
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/106.png" alt="Blur Background" />
+  <img src="/Arc-ExamineSystemDoc/img/106.png" alt="Blur Background" />
 </div>
 
 <br />
@@ -137,7 +137,7 @@ And in **Blur-Background** component we have to set the **Material** field to **
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/101.png" alt="Blur Background Material" />
+  <img src="/Arc-ExamineSystemDoc/img/101.png" alt="Blur Background Material" />
 </div>
 
 <br />
@@ -147,7 +147,7 @@ You can adjust the **blur effect** blur strength and scale from its material.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/102.png" alt="Blur Settings" />
+  <img src="/Arc-ExamineSystemDoc/img/102.png" alt="Blur Settings" />
 </div>
 
 <br />
@@ -158,7 +158,7 @@ You can adjust the **blur effect** blur strength and scale from its material.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video30.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video30.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -177,7 +177,7 @@ And now, same as **BlurCanvas**, in <span style={{color: '#ff8011'}}>**Solid_Bac
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/104.png" alt="Solid Background Render Camera" />
+  <img src="/Arc-ExamineSystemDoc/img/104.png" alt="Solid Background Render Camera" />
 </div>
 
 <br />
@@ -191,7 +191,7 @@ Under <span style={{color: '#ff8011'}}>**Solid_BackgroundCanvas**</span> you wil
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/105.png" alt="Solid Background Object" />
+  <img src="/Arc-ExamineSystemDoc/img/105.png" alt="Solid Background Object" />
 </div>
 
 <br />
@@ -201,9 +201,9 @@ Under <span style={{color: '#ff8011'}}>**Solid_BackgroundCanvas**</span> you wil
 <br />
 
 <div style={{display: 'flex', gap: '10px', alignItems: 'center'}}>
-  <img src="/img/103.png" alt="Background Image" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/103.png" alt="Background Image" width="50%" />
   <span style={{fontSize: '24px', flexShrink: 0}}>→</span>
-  <img src="/img/ExamineBackground.png" alt="Default Background" width="40%" />
+  <img src="/Arc-ExamineSystemDoc/img/ExamineBackground.png" alt="Default Background" width="40%" />
 </div>
 
 <p style={{color: '#888888', marginTop: '0.5rem', textAlign: 'center', marginLeft: '50%'}}>
@@ -218,7 +218,7 @@ Default Background
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video31.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video31.mp4" type="video/mp4" />
   </video>
 </div>
 

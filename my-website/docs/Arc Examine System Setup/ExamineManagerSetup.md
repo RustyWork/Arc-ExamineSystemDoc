@@ -12,7 +12,7 @@ sidebar_position: 3
 when you will first open **Examine Manager** you will see this.
 <br />
 <div style={{textAlign: 'center'}}> 
-  <img src="\img\10.png" alt="Alt text" style={{ width: '300px', height: 'auto' }} /> 
+  <img src="/Arc-ExamineSystemDoc/img/10.png" alt="Alt text" style={{ width: '300px', height: 'auto' }} /> 
 </div>
 <br />
 ---
@@ -83,7 +83,7 @@ In this field you have to drag your separate examine camera.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\2026-05-03 11-33-36-72.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/2026-05-03 11-33-36-72.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -147,7 +147,7 @@ Here you will see three fields.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\2026-05-03 13-45-55-00.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/2026-05-03 13-45-55-00.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -155,7 +155,7 @@ Here you will see three fields.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\video2.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video2.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -225,7 +225,7 @@ In this field you have to add your <span style={{color: '#ff8011'}}>**AudioSourc
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\2026-05-08 19-23-16-79.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/2026-05-08 19-23-16-79.mp4" type="video/mp4" />
   </video>
 </div>
 <br />

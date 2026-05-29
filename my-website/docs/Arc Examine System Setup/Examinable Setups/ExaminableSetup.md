@@ -11,7 +11,7 @@ Now you add **Examinable** script in examine object.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\Video5.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video5.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -20,8 +20,8 @@ After adding the **Examinable** in object you will see this.
 
 <br />
 <div style={{display: 'flex', gap: '10px'}}>
-  <img src="/img/34.png" alt="Image 1" width="50%" />
-  <img src="/img/35.png" alt="Image 2" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/34.png" alt="Image 1" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/35.png" alt="Image 2" width="50%" />
 </div>
 <br />
 
@@ -35,7 +35,7 @@ After adding the **Examinable** in object you will see this.
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\36.png)
+  <img src="/Arc-ExamineSystemDoc/img/36.png" alt="General Settings" />
 </div>
 <br />
 
@@ -48,7 +48,7 @@ After adding the **Examinable** in object you will see this.
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\37.png)
+  <img src="/Arc-ExamineSystemDoc/img/37.png" alt="ItemCanMove" />
 </div>
 <br />
 
@@ -61,7 +61,7 @@ Note - it only captures examinable position while we are not in examine state.
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\38.png)
+  <img src="/Arc-ExamineSystemDoc/img/38.png" alt="HaveChildren" />
 </div>
 <br />
 
@@ -69,7 +69,7 @@ And if you're feeling lazy today and don't wanna add children's manually just cl
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\Video7.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video7.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -78,7 +78,7 @@ And if you're feeling lazy today and don't wanna add children's manually just cl
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\39.png)
+  <img src="/Arc-ExamineSystemDoc/img/39.png" alt="Rotation Settings" />
 </div>
 <br />
 
@@ -86,7 +86,7 @@ And if you're feeling lazy today and don't wanna add children's manually just cl
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\Video8.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video8.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -95,7 +95,7 @@ And if you're feeling lazy today and don't wanna add children's manually just cl
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\40.png)
+  <img src="/Arc-ExamineSystemDoc/img/40.png" alt="SeparateAxis" />
 </div>
 <br />
 
@@ -105,7 +105,7 @@ Here you can edit your X & Y speed individual.
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\41.png)
+  <img src="/Arc-ExamineSystemDoc/img/41.png" alt="Zoom Settings" />
 </div>
 <br />
 
@@ -113,7 +113,7 @@ Here you can edit your X & Y speed individual.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\Video9.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video9.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -122,7 +122,7 @@ Here you can edit your X & Y speed individual.
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\42.png)
+  <img src="/Arc-ExamineSystemDoc/img/42.png" alt="CanWeZoom" />
 </div>
 <br />
 
@@ -135,7 +135,7 @@ Here you can edit your X & Y speed individual.
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\43.png)
+  <img src="/Arc-ExamineSystemDoc/img/43.png" alt="Inspect Points" />
 </div>
 <br />
 
@@ -143,7 +143,7 @@ Here you can add your **Inspect Points** if you have them in your examinable obj
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\Video10.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video10.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -152,7 +152,7 @@ Here you can add your **Inspect Points** if you have them in your examinable obj
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\44.png)
+  <img src="/Arc-ExamineSystemDoc/img/44.png" alt="HighLight Settings" />
 </div>
 <br />
 
@@ -161,7 +161,7 @@ enabling this will show.
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\45.png)
+  <img src="/Arc-ExamineSystemDoc/img/45.png" alt="HighlightWhenHovered enabled" />
 </div>
 <br />
 
@@ -169,7 +169,7 @@ enabling this will show.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\Video11.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video11.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -180,7 +180,7 @@ After that you will see a empty list of **Renderer Objects**.
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\46.png)
+  <img src="/Arc-ExamineSystemDoc/img/46.png" alt="Renderer Objects" />
 </div>
 <br />
 
@@ -188,7 +188,7 @@ Here you can add your objects on which you want to show highlight.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\Video12.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video12.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -197,7 +197,7 @@ Here you can add your objects on which you want to show highlight.
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\47.png)
+  <img src="/Arc-ExamineSystemDoc/img/47.png" alt="Sounds Settings" />
 </div>
 <br />
 
@@ -205,7 +205,7 @@ Here you can add your objects on which you want to show highlight.
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\48.png)
+  <img src="/Arc-ExamineSystemDoc/img/48.png" alt="HaveSounds enabled" />
 </div>
 <br />
 
@@ -217,7 +217,7 @@ when you will exit in examine state.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\Video13.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video13.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -234,7 +234,7 @@ Ensure that **HaveSounds** is enabled in **ExamineManager**, All details about [
 
 <br />
 <div style={{textAlign: 'center'}}>
-![Alt text](\img\49.png)
+  <img src="/Arc-ExamineSystemDoc/img/49.png" alt="Events" />
 </div>
 <br />
 
@@ -245,7 +245,7 @@ Here you can add your **Customs Events** .
 
 ---
 
-:::important
+:::caution
 
 Please make sure there is a **Collider** in the examinable object and that **collider** is not interfering with other **colliders** to make sure proper interaction. [Recommended adding a MeshCollider]
 

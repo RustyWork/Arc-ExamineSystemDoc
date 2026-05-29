@@ -21,7 +21,7 @@ Just go inside **Arc ExamineSystem** folder → **Prefab** folder → **InspectP
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\video15.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video15.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -70,7 +70,7 @@ And when you click on **Inspect point** inside you will find a script named **In
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\video33.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video33.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -94,7 +94,7 @@ And when you click on **Inspect point** inside you will find a script named **In
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\video16.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video16.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -116,7 +116,7 @@ recorder</p>
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\video34.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video34.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -137,7 +137,7 @@ recorder</p>
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\video17.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video17.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -168,7 +168,7 @@ Click on **Add InspectSound** to add **InspectSound** script, After clicking it 
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\2026-05-10 10-31-45-97.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/2026-05-10 10-31-45-97.mp4" type="video/mp4" />
   </video>
 </div>
 <br />

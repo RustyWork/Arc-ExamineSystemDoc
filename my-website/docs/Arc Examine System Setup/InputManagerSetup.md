@@ -67,7 +67,7 @@ You can drag and drop your actions from **InputSystem** folder from **ExamineInp
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\Video3.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/Video3.mp4" type="video/mp4" />
   </video>
 </div>
 

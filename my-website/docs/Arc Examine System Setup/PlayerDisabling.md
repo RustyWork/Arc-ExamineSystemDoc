@@ -45,7 +45,7 @@ We are going to do this by using **ExamineManager** events.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\Video4.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video4.mp4" type="video/mp4" />
   </video>
 </div>
 

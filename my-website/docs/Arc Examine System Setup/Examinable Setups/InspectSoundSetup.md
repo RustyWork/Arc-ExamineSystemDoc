@@ -15,7 +15,7 @@ If you haven't learned about **Inspect Point** and **Item Inspect** yet, it is r
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/68.png" alt="Inspect Sound Component" />
+  <img src="/Arc-ExamineSystemDoc/img/68.png" alt="Inspect Sound Component" />
 </div>
 
 <br />
@@ -27,7 +27,7 @@ If you haven't learned about **Inspect Point** and **Item Inspect** yet, it is r
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/68.png" alt="Inspect Sound Setup" />
+  <img src="/Arc-ExamineSystemDoc/img/68.png" alt="Inspect Sound Setup" />
 </div>
 
 <br />
@@ -44,7 +44,7 @@ If you haven't learned about **Inspect Point** and **Item Inspect** yet, it is r
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video18.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video18.mp4" type="video/mp4" />
   </video>
 </div>
 

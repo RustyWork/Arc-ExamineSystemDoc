@@ -24,9 +24,9 @@ Go under **ExamineManager-UI** object you will find an object named <span style=
 <br />
 
 <div style={{display: 'flex', gap: '10px', alignItems: 'center'}}>
-  <img src="/img/87.png" alt="UI Holder" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/87.png" alt="UI Holder" width="50%" />
   <span style={{fontSize: '24px', flexShrink: 0}}>→</span>
-  <img src="/img/88.png" alt="UI Holder Content" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/88.png" alt="UI Holder Content" width="50%" />
 </div>
 
 <br />
@@ -35,6 +35,28 @@ Go under **ExamineManager-UI** object you will find an object named <span style=
 
 All **UI** under **UI-Holder** is just placeholder content.  
 You are free to customize it however you want.
+
+---
+
+<br />
+
+<div style={{textAlign: 'center'}}>
+  <img src="/Arc-ExamineSystemDoc/img/108.png" alt="Reference Settings" />
+</div>
+
+<br />
+
+- **CloseExamineButton** → In this object, there is a object named **closeExamine**.
+
+**CloseExamine** → This is a button object. In the **Button** section, in the **On Click** event section, make sure **ExamineManager** is added and is using **ExamineManager.CloseExamine()** method.
+
+<br />
+
+<div style={{textAlign: 'center'}}>
+  <img src="/Arc-ExamineSystemDoc/img/107.png" alt="Reference Settings" />
+</div>
+
+<br />
 
 :::
 
@@ -48,9 +70,9 @@ Inside that object, you will find a script named **Examine UI**.
 <br />
 
 <div style={{display: 'flex', gap: '10px', alignItems: 'center'}}>
-  <img src="/img/89.png" alt="UI Manager" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/89.png" alt="UI Manager" width="50%" />
   <span style={{fontSize: '24px', flexShrink: 0}}>→</span>
-  <img src="/img/90.png" alt="Examine UI Script" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/90.png" alt="Examine UI Script" width="50%" />
 </div>
 
 <br />
@@ -62,7 +84,7 @@ Inside that object, you will find a script named **Examine UI**.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/90.png" alt="Examine UI Script" style={{width: '300px', height: 'auto'}} />
+  <img src="/Arc-ExamineSystemDoc/img/90.png" alt="Examine UI Script" style={{width: '300px', height: 'auto'}} />
 </div>
 
 <br />
@@ -74,7 +96,7 @@ Inside that object, you will find a script named **Examine UI**.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/94.png" alt="Reference Settings" />
+  <img src="/Arc-ExamineSystemDoc/img/94.png" alt="Reference Settings" />
 </div>
 
 <br />
@@ -90,7 +112,7 @@ Inside that object, you will find a script named **Examine UI**.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/95.png" alt="Hover Visual Settings" />
+  <img src="/Arc-ExamineSystemDoc/img/95.png" alt="Hover Visual Settings" />
 </div>
 
 <br />
@@ -104,9 +126,9 @@ Before I explain you **VisualHint**, if you go under **ExamineManager-UI** you w
 <br />
 
 <div style={{display: 'flex', gap: '10px', alignItems: 'center'}}>
-  <img src="/img/92.png" alt="HoverVisual Object" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/92.png" alt="HoverVisual Object" width="50%" />
   <span style={{fontSize: '24px', flexShrink: 0}}>→</span>
-  <img src="/img/91.png" alt="HoverVisual Preview" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/91.png" alt="HoverVisual Preview" width="50%" />
 </div>
 
 <br />
@@ -120,14 +142,14 @@ Time to understand <span style={{color: '#ff8011'}}>**VisualHint**</span>.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/93.png" alt="VisualHint" />
+  <img src="/Arc-ExamineSystemDoc/img/93.png" alt="VisualHint" />
 </div>
 
 <br />
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video25.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video25.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -144,7 +166,7 @@ Time to understand <span style={{color: '#ff8011'}}>**VisualHint**</span>.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/96.png" alt="UI Settings" />
+  <img src="/Arc-ExamineSystemDoc/img/96.png" alt="UI Settings" />
 </div>
 
 <br />
@@ -169,7 +191,7 @@ Lets talk about **UI Holder**, **ExaminableObject NameLabel** and **ExaminableOb
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/97.png" alt="UI Holder References" />
+  <img src="/Arc-ExamineSystemDoc/img/97.png" alt="UI Holder References" />
 </div>
 
 <br />
@@ -187,7 +209,7 @@ Lets talk about **UI Holder**, **ExaminableObject NameLabel** and **ExaminableOb
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video26.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video26.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -204,7 +226,7 @@ Time to explain last two fields.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/98.png" alt="Visibility Settings" />
+  <img src="/Arc-ExamineSystemDoc/img/98.png" alt="Visibility Settings" />
 </div>
 
 <br />
@@ -218,7 +240,7 @@ Time to explain last two fields.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video27.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video27.mp4" type="video/mp4" />
   </video>
 </div>
 

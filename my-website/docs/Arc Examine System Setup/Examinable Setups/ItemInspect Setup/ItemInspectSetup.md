@@ -8,7 +8,7 @@
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video19.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video19.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -35,8 +35,8 @@ Once you add the component you will see this.
 <br />
 
 <div style={{display: 'flex', gap: '10px', alignItems: 'center'}}>
-  <img src="/img/69.png" alt="Item Inspect Setup" width="50%" />
-  <img src="/img/74.png" alt="Item Inspect Inspector" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/69.png" alt="Item Inspect Setup" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/74.png" alt="Item Inspect Inspector" width="50%" />
 </div>
 
 <br />
@@ -54,7 +54,7 @@ Once you add the component you will see this.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/71.png" alt="Interact Settings" />
+  <img src="/Arc-ExamineSystemDoc/img/71.png" alt="Interact Settings" />
 </div>
 
 <br />
@@ -66,7 +66,7 @@ Once you add the component you will see this.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/65.png" alt="Object State On Click" />
+  <img src="/Arc-ExamineSystemDoc/img/65.png" alt="Object State On Click" />
 </div>
 
 <br />
@@ -79,7 +79,7 @@ Once you add the component you will see this.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video17.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video17.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -100,7 +100,7 @@ After that you will see one option named **HaveSound**.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/66.png" alt="HaveSound" />
+  <img src="/Arc-ExamineSystemDoc/img/66.png" alt="HaveSound" />
 </div>
 
 <br />
@@ -110,7 +110,7 @@ After that you will see one option named **HaveSound**.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/67.png" alt="InspectSound Setup" />
+  <img src="/Arc-ExamineSystemDoc/img/67.png" alt="InspectSound Setup" />
 </div>
 
 <br />
@@ -131,7 +131,7 @@ After clicking it will add a new script in Item Inspect object.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/72.png" alt="Highlight Settings" />
+  <img src="/Arc-ExamineSystemDoc/img/72.png" alt="Highlight Settings" />
 </div>
 
 <br />
@@ -141,7 +141,7 @@ After clicking it will add a new script in Item Inspect object.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video20.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video20.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -154,7 +154,7 @@ After that you will see an empty list of **Renderer Objects**.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/73.png" alt="Renderer Objects" />
+  <img src="/Arc-ExamineSystemDoc/img/73.png" alt="Renderer Objects" />
 </div>
 
 <br />
@@ -163,7 +163,7 @@ Here you can add your objects on which you want to show the highlight.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/Video21.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video21.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -176,7 +176,7 @@ Here you can add your objects on which you want to show the highlight.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/75.png" alt="AfterClickLabel Settings" />
+  <img src="/Arc-ExamineSystemDoc/img/75.png" alt="AfterClickLabel Settings" />
 </div>
 
 <br />
@@ -189,7 +189,7 @@ After enabling **AfterClickLabel** you will see three properties.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/76.png" alt="AfterClickLabel Properties" />
+  <img src="/Arc-ExamineSystemDoc/img/76.png" alt="AfterClickLabel Properties" />
 </div>
 
 <br />
@@ -200,7 +200,7 @@ After enabling **AfterClickLabel** you will see three properties.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/77.png" alt="DurationState" />
+  <img src="/Arc-ExamineSystemDoc/img/77.png" alt="DurationState" />
 </div>
 
 <br />
@@ -215,7 +215,7 @@ And when you set **DurationState** to **Duration**, one more option will appear.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/78.png" alt="Duration" />
+  <img src="/Arc-ExamineSystemDoc/img/78.png" alt="Duration" />
 </div>
 
 <br />
@@ -237,7 +237,7 @@ Lets setup **UI** for it.
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/79.png" alt="ItemPrompt UI Holder" />
+  <img src="/Arc-ExamineSystemDoc/img/79.png" alt="ItemPrompt UI Holder" />
 </div>
 
 <br />
@@ -249,9 +249,9 @@ Lets setup **UI** for it.
 <br />
 
 <div style={{display: 'flex', gap: '10px', alignItems: 'center'}}>
-  <img src="/img/80.png" alt="Background Object" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/80.png" alt="Background Object" width="50%" />
   <span style={{fontSize: '24px', flexShrink: 0}}>→</span>
-  <img src="/img/81.png" alt="Background Preview" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/81.png" alt="Background Preview" width="50%" />
 </div>
 
 <br />
@@ -263,9 +263,9 @@ Lets setup **UI** for it.
 <br />
 
 <div style={{display: 'flex', gap: '10px', alignItems: 'center'}}>
-  <img src="/img/82.png" alt="Prompt Text" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/82.png" alt="Prompt Text" width="50%" />
   <span style={{fontSize: '24px', flexShrink: 0}}>→</span>
-  <img src="/img/83.png" alt="Prompt Preview" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/83.png" alt="Prompt Preview" width="50%" />
 </div>
 
 <br />
@@ -283,7 +283,7 @@ You will find an object named **Item Inspect UI Manager** under **ExamineManager
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/84.png" alt="Item Inspect UI Manager Object" />
+  <img src="/Arc-ExamineSystemDoc/img/84.png" alt="Item Inspect UI Manager Object" />
 </div>
 
 <br />
@@ -293,7 +293,7 @@ In this object you will find a script named <span style={{color: '#ff8011'}}>**I
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/85.png" alt="Item Inspect UI Manager Script" />
+  <img src="/Arc-ExamineSystemDoc/img/85.png" alt="Item Inspect UI Manager Script" />
 </div>
 
 <br />
@@ -303,7 +303,7 @@ In this object you will find a script named <span style={{color: '#ff8011'}}>**I
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video22.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video22.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -313,7 +313,7 @@ In this object you will find a script named <span style={{color: '#ff8011'}}>**I
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video23.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video23.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -333,7 +333,7 @@ Just do not forget to disable **Interact Settings** and **WillFaceYou** from the
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/img/86.png" alt="InspectPoint Features" />
+  <img src="/Arc-ExamineSystemDoc/img/86.png" alt="InspectPoint Features" />
 </div>
 
 <br />
@@ -351,3 +351,4 @@ public void ChangeLabel(string newLabel)
 {
    label = newLabel;
 }
+```

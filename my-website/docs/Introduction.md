@@ -11,7 +11,7 @@ slug: /
 
 ## Overview
 
-The Examine System is made to make your game look more professional and polished. There are various options to change to match your game style and feel.
+This Examine System is made to make your game look more professional and polished. There are various options to change to match your game style and feel.
 
 ---
 

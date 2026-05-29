@@ -52,7 +52,7 @@ sidebar_position: 1
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\2026-05-09 12-12-48-71.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/2026-05-09 12-12-48-71.mp4" type="video/mp4" />
   </video>
 </div>
 <br />
@@ -61,7 +61,7 @@ sidebar_position: 1
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Videos/video14.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video14.mp4" type="video/mp4" />
   </video>
 </div>
 <br />

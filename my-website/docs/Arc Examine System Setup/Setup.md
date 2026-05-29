@@ -31,7 +31,7 @@ Also add a <span style={{color: '#ff8011'}}>**Event System**</span> in scene to 
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\2026-05-03 20-08-07-39.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/2026-05-03 20-08-07-39.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -55,7 +55,7 @@ A small window will open. Click on **Setup**, and the layer will be added.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\video6.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video6.mp4" type="video/mp4" />
   </video>
 </div>
 

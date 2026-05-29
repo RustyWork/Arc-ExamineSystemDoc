@@ -31,7 +31,7 @@ Reset your <span style={{color: '#ff8011'}}>**ExamineCameraOverlay**</span> **Ro
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\video32.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/video32.mp4" type="video/mp4" />
   </video>
 </div>
 
@@ -65,7 +65,7 @@ Now just drag and drop your ExamineCameraOverlay.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="\Videos\2026-05-01 11-01-58-52.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/2026-05-01 11-01-58-52.mp4" type="video/mp4" />
   </video>
 </div>
 
