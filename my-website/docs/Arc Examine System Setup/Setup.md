@@ -8,7 +8,7 @@ sidebar_position: 1
 
 After importing the <span style={{color: '#ff8011'}}>**Arc Examine System**</span>, you will find a folder in your project tab under the Assets folder.
 
-![Alt text](\img\6569ccec-0c06-4849-8c2e-19ee2b2314b6.png)
+![Alt text](\img\109.png)
 
 <br />
 
