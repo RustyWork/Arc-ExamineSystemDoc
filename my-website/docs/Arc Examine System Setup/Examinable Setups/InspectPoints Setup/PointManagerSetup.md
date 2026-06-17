@@ -66,7 +66,7 @@ sidebar_position: 1
 </div>
 <br />
 
-After that you will see two properties under **FollowInspectPoint**.
+After that you will see two fields under **FollowInspectPoint**.
 
 <br />
 <div style={{textAlign: 'center'}}>

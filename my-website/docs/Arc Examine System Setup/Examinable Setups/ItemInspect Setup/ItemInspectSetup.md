@@ -184,12 +184,12 @@ Here you can add your objects on which you want to show the highlight.
 - **AfterClickLabel** → Enable it, if you want to show a label after you click on **ItemInspect**. It could be helpful if you want to indicate to the player with **Text** that something has happened after clicking on **ItemInspect**.  
 Like — "**Object has added to inventory**".
 
-After enabling **AfterClickLabel** you will see three properties.
+After enabling **AfterClickLabel** you will see three fields.
 
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/Arc-ExamineSystemDoc/img/76.png" alt="AfterClickLabel Properties" />
+  <img src="/Arc-ExamineSystemDoc/img/76.png" alt="AfterClickLabel fields" />
 </div>
 
 <br />

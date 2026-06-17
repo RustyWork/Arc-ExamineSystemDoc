@@ -188,7 +188,7 @@ Here you can choose custom position on screen to place your examinable.
 </div>
 <br />
 
-Here are two properties you can change.
+Here are two fields you can change.
 
 - **Placement X** → Defines position in X axis.
 - **Placement Y** → Defines position in Y axis.
@@ -232,7 +232,7 @@ In this field you have to add your <span style={{color: '#ff8011'}}>**AudioSourc
 
 ### Events
 
-Here you will find two properties.
+Here you will find two fields.
 
 - **OnExamineStart** and **OnExamineEnd**
 
