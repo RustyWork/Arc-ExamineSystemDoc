@@ -41,23 +41,19 @@ Also add a <span style={{color: '#ff8011'}}>**Event System**</span> in scene to 
 
 :::note
 
-And there should be a layer named **Examinable**, it is added automatically on importing the asset.
+And there should be a layer named **Examinable**, it is added when you click on **SETUP** on wizard that shows on importing.
 
 :::
 
 <br />
 
-If **Examinable** layer got deleted, look on top, you will find a tab named **Arc ExamineSystem**, and after clicking on it, click on **Wizard**.
+If **Examinable** layer got deleted, look on top, you will find a tab named **Tools**, and after clicking on it, you will see **Arc Examine System** in that you will find **Wizard**.
 
 A small window will open. Click on **Setup**, and the layer will be added.
 
 <br />
 
-<div style={{textAlign: 'center'}}>
-  <video controls width="80%">
-    <source src="/Arc-ExamineSystemDoc/Videos/video6.mp4" type="video/mp4" />
-  </video>
-</div>
+![Alt text](\img\110.png)
 
 <br />
 

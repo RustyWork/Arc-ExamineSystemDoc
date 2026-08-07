@@ -293,17 +293,17 @@ In this object you will find a script named <span style={{color: '#ff8011'}}>**I
 <br />
 
 <div style={{textAlign: 'center'}}>
-  <img src="/Arc-ExamineSystemDoc/img/85.png" alt="Item Inspect UI Manager Script" />
+  <img src="/Arc-ExamineSystemDoc/img/112.png" alt="Item Inspect UI Manager Script" />
 </div>
 
 <br />
 
-- **UIHolder** → Add the object that holds the **UI** like **Background**, **Text**, and other content.
+- **Prompt UI Holder** → Add the object that holds the **UI** like **Background**, **Text**, and other content.
 - **Label** → Add the text object that will display whatever you have written in **AfterClickLabel** in the **Label** field.
 
 <div style={{textAlign: 'center'}}>
   <video controls width="80%">
-    <source src="/Arc-ExamineSystemDoc/Videos/video22.mp4" type="video/mp4" />
+    <source src="/Arc-ExamineSystemDoc/Videos/2026-07-03 19-27-47-32.mp4" type="video/mp4" />
   </video>
 </div>
 

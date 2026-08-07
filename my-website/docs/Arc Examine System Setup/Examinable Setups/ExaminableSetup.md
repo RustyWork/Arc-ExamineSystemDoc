@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# ⚱ Examinable Setup
+# ⚱ Examinable Setup UPDATED!!
 
 > <span style={{color: '#888888'}}>After all that we can move to finally creating the examinable</span>
 
@@ -20,7 +20,7 @@ After adding the **Examinable** in object you will see this.
 
 <br />
 <div style={{display: 'flex', gap: '10px'}}>
-  <img src="/Arc-ExamineSystemDoc/img/34.png" alt="Image 1" width="50%" />
+  <img src="/Arc-ExamineSystemDoc/img/113.png" alt="Image 1" width="50%" />
   <img src="/Arc-ExamineSystemDoc/img/35.png" alt="Image 2" width="50%" />
 </div>
 <br />
@@ -78,9 +78,11 @@ And if you're feeling lazy today and don't wanna add children's manually just cl
 
 <br />
 <div style={{textAlign: 'center'}}>
-  <img src="/Arc-ExamineSystemDoc/img/39.png" alt="Rotation Settings" />
+  <img src="/Arc-ExamineSystemDoc/img/114.png" alt="Rotation Settings" />
 </div>
 <br />
+
+- **Default Rotation** → Default/initial rotation of the examine item on start of examine state, leave it untouched to use object's current rotation. (**Feature Added in v1.2**)
 
 - **RotateSpeed** → This float controls at what speed your examinable object will rotate.
 
